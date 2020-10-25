@@ -1,0 +1,23 @@
+
+*{
+    margin: 0; padding: 0;
+    font-family: 'Bebas Neue', cursive;
+    
+}
+
+
+
+
+.qr{
+    height: 800px;
+    width: 800px;
+    padding-left: 200px;
+    
+}
+.heading{
+    text-align: center;
+    
+}
+.headingno{
+    text-align: center;
+}
